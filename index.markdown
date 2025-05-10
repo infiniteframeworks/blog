@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Welcome to And Beyond
 ---
 
+## Welcome to _and beyond_
 
 This is the blog of [Infinite Frameworks](https://infiniteframeworks.com)—a space where we share what we're building, what we're learning, and where we're headed.
 
