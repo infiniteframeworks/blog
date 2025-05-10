@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome to _and beyond_
-
 This is the blog of [Infinite Frameworks](https://infiniteframeworks.com)—a space where we share what we're building, what we're learning, and where we're headed.
 
 Whether it’s launching a website, refining a product strategy, or poking at the edges of what’s possible on the web, this is where it all gets documented—warts, wins, and wisdom included.
