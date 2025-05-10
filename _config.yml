@@ -23,13 +23,20 @@ email: blog@infiniteframeworks.com
 description: >- # this means to ignore newlines until "baseurl:"
   "and beyond is the Infinite Frameworks blog—a space for sharing ideas, insights, and experiments in web development, design, and digital strategy."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.infiniteframeworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  infiniteframeworks
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+social:
+  name: Jim Smits
+  links:
+    - https://infiniteframeworks.com
+    - https://github.com/infiniteframeworks
 
 # Exclude from processing.
 # The following items will not be processed, by default.
