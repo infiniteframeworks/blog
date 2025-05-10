@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Hello
 ---
 
 # Welcome to _and beyond_
