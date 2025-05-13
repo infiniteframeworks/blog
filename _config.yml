@@ -40,6 +40,8 @@ social:
     - https://infiniteframeworks.com
     - https://github.com/infiniteframeworks
 
+google_analytics: G-7PX55JSLCB
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
