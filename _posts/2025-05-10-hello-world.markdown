@@ -16,7 +16,7 @@ It’s the traditional first program in just about every programming language. S
 console.log("Hello, World")
 ```
 
-The tradition dates back to 1972, when Brian Kernighan used it in a C tutorial in the early days of UNIX. It later appeared in the legendary book _The C Programming Language_ by Kernighan and Dennis Ritchie, and it stuck. Decades later, we’re still using it—part ritual, part rite of passage.
+The tradition dates back to 1974, when Brian Kernighan used it in a C tutorial in the early days of UNIX. It later appeared in the legendary book _The C Programming Language_ by Kernighan and Dennis Ritchie, and it stuck. Decades later, we’re still using it—part ritual, part rite of passage.
 
 So here it is: the inaugural post of _and beyond_.
 
