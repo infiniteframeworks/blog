@@ -1,9 +1,10 @@
-<header class="site-header" role="banner">
+<header class="site-header" style="background-color: #f8faf9;" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <img src="https://infiniteframeworks.com/logo.png" alt="Infinite Frameworks Logo" class="logo" />
+    <a class="site-title" style="float:inherit;" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">

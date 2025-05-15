@@ -2,6 +2,7 @@
 title: Creating a PowerShell Build Script
 date: 2025-05-13
 layout: post
+author: Jim Smits
 ---
 
 What do you do when a CMS is overkill for your needs?  You create a lightweight build script. 

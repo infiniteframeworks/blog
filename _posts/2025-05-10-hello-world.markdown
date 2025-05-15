@@ -2,6 +2,7 @@
 title: Hello, World
 date: 2025-05-10
 layout: post
+author: Jim Smits
 ---
 
 # Hello, World
