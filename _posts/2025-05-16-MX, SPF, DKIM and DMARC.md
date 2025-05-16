@@ -1,5 +1,5 @@
 ---
-title: MX, SPF, DKIM an DMARC
+title: MX, SPF, DKIM and DMARC
 date: 2025-05-16
 layout: post
 author: Jim Smits
