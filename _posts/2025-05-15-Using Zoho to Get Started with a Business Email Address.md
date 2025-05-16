@@ -34,7 +34,7 @@ The user interface is a little bit daunting at first because of the level of con
 2. Set up your main (and only) user
 3. Set up groups for email addresses that you want to map to your main user (such as hello@sitename.com).
 4. Add [MX, SPF and DKIM](/mx-spf-dkim-and-dmarc/) records in DNS
-5. Assuming you are [greenfield](/greenfield/) you can skip the Email Migration step and then go to your inbox.
+5. Assuming you are greenfield you can skip the Email Migration step and then go to your inbox.
 
 At this point, you'll want to integrate your new email address into your tools of choice.  I am using the Outlook Windows client. Add the Zoho account as you would any other IMAP account. However, there is one quirk to note - you have to go to your mail settings at https://mail.zoho.com and enable IMAP. You also may need to generate an app specific password. 
 
