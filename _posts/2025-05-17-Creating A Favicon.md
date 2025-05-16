@@ -1,6 +1,13 @@
-Favicons, are the little graphics that appear in your browser tabs
+---
+title: Creating A Favicon
+date: 2025-05-17
+layout: post
+author: Jim Smits
+permalink: /creating-a-favicon/
+---
+Favicons, are the little graphics that appear in your browser tabs.
 
-Creating one for your company is easy.
+Creating one for your company is easy.  
 
 Go to https://favicon.io/favicon-converter/ and upload your graphic.  Make sure that the canvas size is square, or the converter will scale your graphic to make it square resulting in distortion.
 
