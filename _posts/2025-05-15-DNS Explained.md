@@ -21,4 +21,4 @@ Common ones include:
 - MX Records - Mail server address for the domain
 - TXT Records - used for various identification purposes
 
-In reality, there is more complexity at play including caches, the root name servers ( . ), TLD name servers (.com, etc.), TTLs and more.  For the purposes of most small business owners, a cursory understanding of DNS is adequate. Configuring DNS need not be intimidating, however, mistakes can happen which can have unintended side effects and may take your site offline.  When in doubt, contact a reputable web site consultant to make sure everything is in order.
+In reality, there is more complexity at play including caches, the root name servers ( . ), TLD name servers (.com, etc.), TTLs and more.  For the purposes of most small business owners, a cursory understanding of DNS is adequate. Configuring DNS need not be intimidating, however, mistakes can happen which can have unintended side effects and may take your site offline.  When in doubt, contact a reputable website consultant to make sure everything is in order.
