@@ -1,6 +1,6 @@
 ---
 title: Publish To Jekyll on WSL From Windows Obsidian
-date: 2025-05-18
+date: 2025-05-17
 layout: post
 author: Jim Smits
 permalink: /publish-to-jekyll-from-obsidian/
