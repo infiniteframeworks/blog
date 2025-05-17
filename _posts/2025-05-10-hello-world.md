@@ -6,13 +6,13 @@ permalink: /hello-world/
 author: Jim Smits
 ---
 
-# Hello, World
-
 If you've written any code before, you've probably seen this phrase:
 
-# Hello, World!
+# Hello, World
 
-It’s the traditional first program in just about every programming language. Simple, unassuming, and universal
+It’s the traditional first program in just about every programming language. Simple, unassuming, and universal. 
+
+In JavaScript:
 
 ```
 console.log("Hello, World")
@@ -22,4 +22,4 @@ The tradition dates back to 1974, when Brian Kernighan used it in a C tutorial i
 
 So here it is: the inaugural post of _and beyond_.
 
-This blog is where I’ll share ideas, experiments, and technical breadcrumbs from my journey building Infinite Framework
+Hello, World!
