@@ -51,11 +51,11 @@ This is optional, but if you want to display your tags on the posts themselves, 
 {% raw %}
 ```
 {% if page.tags %}
-  <ul class="post-tags">
+  &lt;ul class="post-tags"&gt;
     {% for tag in page.tags %}
-      <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+      &lt;li&gt;&lt;a href="/tags/{{ tag | slugify }}/">{{ tag }}&lt;/a&gt;&lt;/li&gt;
     {% endfor %}
-  </ul>
+  &lt;/ul&gt;
 {% endif %}
 ```
 {% endraw %}
@@ -71,15 +71,15 @@ This is the page where your tags will display. In the root of your site, add a `
 layout: default
 title: Tags
 ---
-<h1>Tags</h1>
-<ul>
+&lt;h1>Tags&lt;/h1&gt;
+&lt;ul&gt;
   {% assign tags = site.tags %}
   {% for tag in tags %}
-    <li>
-      <a href="/tags/{{ tag[0] | slugify }}/">{{ tag[0] }} ({{ tag[1].size }})</a>
-    </li>
+    &lt;li>
+      &lt;a href="/tags/{{ tag[0] | slugify }}/"&gt;{{ tag[0] }} ({{ tag[1].size }})&lt;/a&gt;
+    &lt;/li&gt;
   {% endfor %}
-</ul>
+&lt;/ul&gt;
 
 ```
 {% endraw %}
