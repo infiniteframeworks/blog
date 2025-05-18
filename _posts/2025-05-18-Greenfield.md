@@ -19,7 +19,7 @@ thread:
 Here is a quick AI generated summary:
 ### 🟩 **Greenfield**
 
-![Code Superimposed over a 3/4 birds eye view of a pastoral community](0_0_640_N.webp "AI Generated Graphic" )
+![Code Superimposed over a 3/4 birds eye view of a pastoral community](/assets/images/posts/0_0_640_N.webp "AI Generated Graphic" )
 - **Definition**: Starting from scratch with no constraints or legacy systems.    
 - **Analogy**: Like building on a literal green field—wide open, no demolition needed.    
 - **Common in**:    
