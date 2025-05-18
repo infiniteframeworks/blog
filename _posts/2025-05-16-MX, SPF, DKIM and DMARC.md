@@ -8,7 +8,9 @@ thread:
 tags:
   - getting-started
   - email-configuration
+  - dns
 description: When configuring your mail server in DNS, here are some useful terms to know.
+ai-disclaimer: Created by Jim Smits, Researched with ChatGPT.
 ---
 When configuring your mail server in DNS, here are some useful terms to know.  
 

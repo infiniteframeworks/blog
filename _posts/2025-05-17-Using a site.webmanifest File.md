@@ -9,6 +9,7 @@ description: A `webmanifest` file is a completely optional JSON file that gives 
 tags:
   - website-development
   - ux
+ai-disclaimer: Created by Jim Smits, Researched with ChatGPT, Scripts by ChatGPT.
 ---
 
 A `webmanifest` file is a completely optional JSON file that gives browsers information about your site so that it can be: 
@@ -49,7 +50,7 @@ For reference, here is the `site.webmanifest` file for this site:
 
 Pay special attention to the display property.  It controls how the app is launched from the home screen of a mobile device.  
 
-Here are the common values and what they do:
+Here are the common values and what they do (AI Generated):
 
 |Value|Behavior|
 |---|---|

@@ -7,6 +7,10 @@ permalink: /get-valuable-search-insights-with-google-search-console/
 thread: 
 description: Google Search Console is a free tool from Google that helps you monitor, maintain, and troubleshoot your site's presence in Google Search results. Here is a quick get started guide.
 tags:
+  - analytics
+  - seo
+  - search-console
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
 ---
 **Google Search Console** is a free tool from Google that helps you monitor, maintain, and troubleshoot your site's presence in Google Search results.
 

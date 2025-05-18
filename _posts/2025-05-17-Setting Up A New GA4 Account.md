@@ -12,6 +12,7 @@ tags:
   - analytics
   - getting-started
   - how-to
+ai-disclaimer: Not Created By AI
 ---
 Google Analytics 4 is the de facto standard for data collection and analytics for websites large and small. 
 

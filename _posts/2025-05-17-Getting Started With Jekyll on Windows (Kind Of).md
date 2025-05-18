@@ -11,6 +11,7 @@ tags:
   - WSL
   - website-development
   - how-to
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT, Scripts by ChatGPT
 ---
 [Jekyll](https://jekyllrb.com/) is probably the most well-known static site generator around. It has thousands of stars and watchers on GitHub, and while development has slowed since its peak in 2013, it is still actively maintained. According to the [GitHub site](https://github.com/jekyll/jekyll):
 

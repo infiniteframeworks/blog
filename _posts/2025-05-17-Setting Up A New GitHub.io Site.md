@@ -11,6 +11,7 @@ tags:
   - github-pages
   - how-to
   - getting-started
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
 ---
 GitHub Pages, also known as github.io, is a great way to host a basic (static) website **for free.**
 

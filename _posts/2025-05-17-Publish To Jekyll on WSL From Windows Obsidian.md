@@ -14,6 +14,7 @@ tags:
   - productivity
   - how-to
 description: The trick to know and get started with here is that you can access your windows file system from  your WSL instance at `/mnt/c`.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT, Scripts by ChatGPT
 ---
 ## The Script
 

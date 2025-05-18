@@ -11,6 +11,7 @@ tags:
   - ux
   - getting-started
   - seo
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT, Scripts by ChatGPT
 ---
 
 While this is not an exhaustive list of all meta tags[^1] and head elements, here are some that are widely used and very useful for good UX.

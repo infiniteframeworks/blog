@@ -13,11 +13,12 @@ tags:
   - email-configuration
   - how-to
 description: Zoho mail - getting started and first impressions.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
 ---
 
 There's the easy way and the right way and oftentimes that Venn diagram is just two separate circles.  Add in the cheap way and now there are three separate circles.
 
-![A Venn diagram showing three circles that don't overlap labeled, cheap, easy, and right](/assets/images/posts/qr90w3cx.png "AI Generated Cheap, Easy, Right Venn Diagram")
+![A Venn diagram showing three circles that don't overlap labeled, cheap, easy, and right](/assets/images/posts/qr90w3cx.png "AI Generated - ChatGPT")
 
 Not the case with [Zoho mail](https://www.zoho.com/mail/) - for just a dollar a month, you can have your email delivered to your business domain.[^1] They also have an app for iOS and Android, and IMAP integration which is nice for integrating with third party email clients. Setup is easy - just add DNS records (see also [DNS Explained](/dns-explained/)) and be on your merry way. 
 

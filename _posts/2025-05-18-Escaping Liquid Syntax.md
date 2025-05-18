@@ -11,6 +11,7 @@ tags:
   - liquid
   - shopify
   - software
+ai-disclaimer: Not Created By AI
 ---
 Don't be like me. Learn from my mistakes. Escape your [Liquid](https://shopify.github.io/liquid/).
 

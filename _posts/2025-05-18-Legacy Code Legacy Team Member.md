@@ -12,10 +12,11 @@ tags:
   - vison
   - software-development
 description: Legacy isn’t just in code. It’s in people. In habits. In fears. In loyalties.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
 ---
 For organizations with a large legacy code base, high maintenance costs, onboarding difficulty, slow delivery cycles, and integration issues are common problems. These challenges often create inertia. Features go unreleased and deadlines are missed as teams struggle with outdated systems. Attracting and retaining talent becomes harder. Developers - both new and experienced - often prefer greenfield projects over legacy applications burdened by technical debt.
 
-!["An old white man with glasses, thinning hair, and a trim build, wearing a sweater, standing in an office amid neon colors and lines that look kind of like a broken computer monitor](/assets/images/posts/legacy-code.png "AI Generated Graphic")
+!["An old white man with glasses, thinning hair, and a trim build, wearing a sweater, standing in an office amid neon colors and lines that look kind of like a broken computer monitor](/assets/images/posts/legacy-code.png "AI Generated Graphic - Midjourney")
 # Introducing An Untapped Resource: The Legacy Team Member
 
 Not quite a [bus factor](/bus-factor/) (the organization could get by without them), and not quite a [kingdom builder](/kingdom-building/) (they aren't focused on job security, they generally care about the organization), **the legacy team member** represents the continuity between the [greenfield](/greenfield/) that once was, and the brownfield that is today.

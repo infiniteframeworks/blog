@@ -12,7 +12,8 @@ tags:
   - website-development
   - system-design
   - getting-started
-thread:
+thread: 
+ai-disclaimer: Created by Jim Smits and ChatGPT
 ---
 **Greenfield vs. Brownfield** refers to two distinct approaches in project development, especially in tech and construction.  However, it also applies to business and life.
 
