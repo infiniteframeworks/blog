@@ -7,6 +7,10 @@ permalink: /escaping-liquid-syntax/
 thread: https://chatgpt.com/c/6826c40c-ebd0-8004-80a3-02894a936ff8
 description: Don't be like me.
 tags:
+  - jekyll
+  - liquid
+  - shopify
+  - software
 ---
 Don't be like me. Learn from my mistakes. Escape your [Liquid](https://shopify.github.io/liquid/).
 

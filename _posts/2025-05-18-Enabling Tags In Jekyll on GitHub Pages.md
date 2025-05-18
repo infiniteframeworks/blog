@@ -11,7 +11,7 @@ tags:
   - github-pages
   - how-to
 ---
-**Editor's note:** the first time I published this article, Liquid, Jekyll's templating engine, rendered the code in the example text. 😂 Be sure to escape your Liquid, all.
+**Editor's note:** the first time I published this article, Liquid, Jekyll's templating engine, rendered the code in the example text. 😂 Be sure to [escape your Liquid](/escaping-liquid-syntax/), all.
 
 Perhaps the only downside to using GitHub Pages to host a Jekyll blog is that its [whitelist](https://pages.github.com/versions/) of approved plugins is limited. It doesn't support any Jekyll tagging plugins, so you have to roll your own. Jekyll's flexibility makes this easy to complete. 
 
