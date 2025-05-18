@@ -2,8 +2,7 @@
 title: DNS Explained
 date: 2025-05-15
 layout: post
-author:
-  - Jim Smits
+author: Jim Smits
 permalink: /dns-explained/
 thread: 
 tags:

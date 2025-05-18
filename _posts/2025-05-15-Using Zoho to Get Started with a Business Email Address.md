@@ -2,8 +2,7 @@
 title: Using Zoho to Get Started with a Business Email Address
 date: 2025-05-15
 layout: post
-author:
-  - Jim Smits
+author: Jim Smits
 permalink: /using-zoho-to-get-started-with-a-business-email-address/
 thread: 
 tags:
@@ -12,6 +11,7 @@ tags:
   - getting-started
   - productivity
   - "#email-configuration"
+  - how-to
 description: Zoho mail - getting started and first impressions.
 ---
 

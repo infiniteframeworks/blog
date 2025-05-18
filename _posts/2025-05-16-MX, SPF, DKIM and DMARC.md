@@ -2,8 +2,7 @@
 title: MX, SPF, DKIM and DMARC
 date: 2025-05-16
 layout: post
-author:
-  - Jim Smits
+author: Jim Smits
 permalink: /mx-spf-dkim-and-dmarc/
 thread: 
 tags:
