@@ -47,9 +47,9 @@ This will be important later on as we will use RegEx to extract the tags from th
 # 2. Render Tags in your Post Template
 
 This is optional, but if you want to display your tags on the posts themselves, you need to add this snippet to your `_layouts/post.html` file.
-
-```
+<pre>
 {% raw %}
+```
 {% if page.tags %}
   <ul class="post-tags">
     {% for tag in page.tags %}
@@ -57,19 +57,20 @@ This is optional, but if you want to display your tags on the posts themselves, 
     {% endfor %}
   </ul>
 {% endif %}
-{% endraw %}
 ```
-
+{% endraw %}
+</pre>
 # 3. Add a Tags Page
 
 This is the page where your tags will display. In the root of your site, add a `tags.html` file with this content:
 
+<pre>
+{% raw %}
 ```
 ---
 layout: default
 title: Tags
 ---
-{% raw %}
 <h1>Tags</h1>
 <ul>
   {% assign tags = site.tags %}
@@ -79,9 +80,10 @@ title: Tags
     </li>
   {% endfor %}
 </ul>
-{% endraw %}
 
 ```
+{% endraw %}
+</pre>
 
 # 4. Create a Generate Tags Script
 
