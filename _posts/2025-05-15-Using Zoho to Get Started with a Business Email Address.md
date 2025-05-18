@@ -10,7 +10,7 @@ tags:
   - business-development
   - getting-started
   - productivity
-  - "#email-configuration"
+  - email-configuration
   - how-to
 description: Zoho mail - getting started and first impressions.
 ---
