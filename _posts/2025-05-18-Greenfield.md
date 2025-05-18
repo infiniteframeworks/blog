@@ -20,18 +20,18 @@ Here is a quick AI generated summary:
 ### 🟩 **Greenfield**
 
 ![Code Superimposed over a 3/4 birds eye view of a pastoral community](/assets/images/posts/0_0_640_N.webp "AI Generated Graphic" )
-- **Definition**: Starting from scratch with no constraints or legacy systems.    
-- **Analogy**: Like building on a literal green field—wide open, no demolition needed.    
-- **Common in**:    
-    - New software projects without inherited code        
-    - Infrastructure built on new land        
-    - Startups or new product lines        
-- **Pros**:    
-    - Full control over architecture, design, and tech stack        
-    - No legacy technical debt        
-- **Cons**:    
-    - More upfront planning required        
-    - Risk of overengineering or missed practical constraints        
+- **Definition**: Starting from scratch with no constraints or legacy systems.
+- **Analogy**: Like building on a literal green field—wide open, no demolition needed.
+- **Common in**:
+    - New software projects without inherited code
+    - Infrastructure built on new land
+    - Startups or new product lines
+- **Pros**:
+    - Full control over architecture, design, and tech stack
+    - No legacy technical debt
+- **Cons**:
+    - More upfront planning required
+    - Risk of overengineering or missed practical constraints
 
 ---
 ### 🟫 **Brownfield**
@@ -40,13 +40,13 @@ Here is a quick AI generated summary:
 
 - **Definition**: Building on or integrating with existing systems, code, or infrastructure.    
 - **Analogy**: Like redeveloping an old industrial site—you work with what’s there.    
-- **Common in**:    
-    - Updating legacy software        
-    - Expanding existing buildings or factories        
-    - Corporate digital transformation        
-- **Pros**:    
-    - Existing foundation and user base        
-    - Faster time-to-value in some cases        
-- **Cons**:    
-    - Technical debt        
+- **Common in**:
+    - Updating legacy software
+    - Expanding existing buildings or factories
+    - Corporate digital transformation
+- **Pros**:
+    - Existing foundation and user base
+    - Faster time-to-value in some cases
+- **Cons**:
+    - Technical debt
     - Constraints from legacy systems or decisions
