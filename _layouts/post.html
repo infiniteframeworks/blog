@@ -27,6 +27,12 @@ layout: default
   </div>
 {% endif %}
 
+{% if page.ai-disclaimer %}
+  <div class="ai-disclaimer">
+    <p>{{ page.ai-disclaimer }}. For more information, please refer to <a href="/ai-disclaimer/">AI Disclaimer</a>.</p>
+  </div>
+{% endif %}
+
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
