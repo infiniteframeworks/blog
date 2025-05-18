@@ -11,6 +11,8 @@ tags:
   - github-pages
   - how-to
 ---
+**Editor's note:** the first time I published this article, Liquid, Jekyll's templating engine, rendered the code in the example text. 😂 Be sure to escape your Liquid, all.
+
 Perhaps the only downside to using GitHub Pages to host a Jekyll blog is that its [whitelist](https://pages.github.com/versions/) of approved plugins is limited. It doesn't support any Jekyll tagging plugins, so you have to roll your own. Jekyll's flexibility makes this easy to complete. 
 
 # 1. Tag Your Posts
@@ -47,6 +49,7 @@ This will be important later on as we will use RegEx to extract the tags from th
 This is optional, but if you want to display your tags on the posts themselves, you need to add this snippet to your `_layouts/post.html` file.
 
 ```
+{% raw %}
 {% if page.tags %}
   <ul class="post-tags">
     {% for tag in page.tags %}
@@ -54,6 +57,7 @@ This is optional, but if you want to display your tags on the posts themselves, 
     {% endfor %}
   </ul>
 {% endif %}
+{% endraw %}
 ```
 
 # 3. Add a Tags Page
@@ -65,7 +69,7 @@ This is the page where your tags will display. In the root of your site, add a `
 layout: default
 title: Tags
 ---
-
+{% raw %}
 <h1>Tags</h1>
 <ul>
   {% assign tags = site.tags %}
@@ -75,6 +79,7 @@ title: Tags
     </li>
   {% endfor %}
 </ul>
+{% endraw %}
 
 ```
 
