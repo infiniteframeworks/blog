@@ -16,7 +16,7 @@ tags:
 
 > Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. [...] Jekyll is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
 
-What's not to like about that?  However, Jekyll is written in [Ruby](https://www.ruby-lang.org/en/)and Ruby support on Windows is... well, questionable at best. There is a Ruby Installer for Windows, but it can be quirky.
+What's not to like about that?  However, Jekyll is written in [Ruby](https://www.ruby-lang.org/en/) and Ruby support on Windows is... well, questionable at best. There is a Ruby Installer for Windows, but it can be quirky.
 
 # WSL to the Rescue
 
