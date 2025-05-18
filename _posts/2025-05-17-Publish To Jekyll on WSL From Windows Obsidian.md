@@ -2,9 +2,18 @@
 title: Publish To Jekyll on WSL From Windows Obsidian
 date: 2025-05-17
 layout: post
-author: Jim Smits
+author:
+  - Jim Smits
 permalink: /publish-to-jekyll-from-obsidian/
-thread:
+thread: 
+tags:
+  - scripting
+  - software
+  - jekyll
+  - obsidian
+  - WSL
+  - productivity
+description: The trick to know and get started with here is that you can access your windows file system from  your WSL instance at `/mnt/c`.
 ---
 ## The Script
 
@@ -52,5 +61,3 @@ C:.
 Then I added `_drafts` and `sync_obsidian.sh` to my `.gitignore` file to prevent sensitive information and unfinished drafts from getting into source control. 
 
 Now, if I make a change in either location - just run the script from WSL and boom - it syncs both ways.
-
-#jekyll #obsidian #WSL #productivity

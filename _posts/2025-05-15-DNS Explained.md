@@ -2,8 +2,13 @@
 title: DNS Explained
 date: 2025-05-15
 layout: post
-author: Jim Smits
+author:
+  - Jim Smits
 permalink: /dns-explained/
+thread: 
+tags:
+  - getting-started
+description: DNS (Domain Name System) is the phonebook of the internet. It is the system that maps names (like infiniteframeworks.com) to IP addresses.
 ---
 DNS (Domain Name System) is the phonebook of the internet. It is the system that maps names (like infiniteframeworks.com) to IP addresses.
 

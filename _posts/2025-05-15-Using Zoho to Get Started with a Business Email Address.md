@@ -2,8 +2,17 @@
 title: Using Zoho to Get Started with a Business Email Address
 date: 2025-05-15
 layout: post
-author: Jim Smits
+author:
+  - Jim Smits
 permalink: /using-zoho-to-get-started-with-a-business-email-address/
+thread: 
+tags:
+  - business
+  - business-development
+  - getting-started
+  - productivity
+  - "#email-configuration"
+description: Zoho mail - getting started and first impressions.
 ---
 
 There's the easy way and the right way and oftentimes that Venn diagram is just two separate circles.  Add in the cheap way and now there are three separate circles.

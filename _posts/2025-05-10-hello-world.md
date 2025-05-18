@@ -3,9 +3,12 @@ title: Hello, World
 date: 2025-05-10
 layout: post
 permalink: /hello-world/
-author: Jim Smits
+author:
+  - Jim Smits
+description: Obligatory Hello, World post.
+tags:
+  - software-lore
 ---
-
 If you've written any code before, you've probably seen this phrase:
 
 # Hello, World
@@ -23,3 +26,5 @@ The tradition dates back to 1974, when Brian Kernighan used it in a C tutorial i
 So here it is: the inaugural post of _and beyond_.
 
 Hello, World!
+
+![A modern looking terminal in dark mode with 'echo, "Hello, World!"' displayed on the screen](/assets/images/posts/2c632be6-05c7-46d8-86fe-e01c4d344de6.png "AI Generated Graphic")

@@ -2,8 +2,14 @@
 title: Creating A Favicon
 date: 2025-05-17
 layout: post
-author: Jim Smits
+author:
+  - Jim Smits
 permalink: /creating-a-favicon/
+thread: 
+tags:
+  - getting-started
+  - website-development
+description: Favicons, are the little graphics that appear in your browser tabs. Creating one for your company is easy.
 ---
 Favicons, are the little graphics that appear in your browser tabs.
 

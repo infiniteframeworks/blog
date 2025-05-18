@@ -2,8 +2,14 @@
 title: MX, SPF, DKIM and DMARC
 date: 2025-05-16
 layout: post
-author: Jim Smits
+author:
+  - Jim Smits
 permalink: /mx-spf-dkim-and-dmarc/
+thread: 
+tags:
+  - getting-started
+  - email-configuration
+description: When configuring your mail server in DNS, here are some useful terms to know.
 ---
 When configuring your mail server in DNS, here are some useful terms to know.  
 

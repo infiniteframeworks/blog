@@ -3,7 +3,14 @@ title: Creating a PowerShell Build Script
 date: 2025-05-13
 layout: post
 permalink: /creating-a-powershell-build-script/
-author: Jim Smits
+author:
+  - Jim Smits
+tags:
+  - scripting
+  - getting-started
+  - software
+thread: 
+description: What do you do when a CMS is overkill for your needs?  You create a lightweight build script.
 ---
 What do you do when a CMS is overkill for your needs?  You create a lightweight build script. 
 
