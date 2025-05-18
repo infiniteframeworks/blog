@@ -19,13 +19,14 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.tags %}
+{% if page.tags %}
   <div class="post-tags">
     {% for tag in page.tags %}
-      <span><a href="/tags/{{ tag | slugify }}/">#{{ tag }}</a></span>
+      <a class="tag-badge" href="/tags/{{ tag | slugify }}/">#{{ tag }}</a>
     {% endfor %}
   </div>
-  {% endif %}
+{% endif %}
+
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

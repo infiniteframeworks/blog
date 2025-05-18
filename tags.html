@@ -4,11 +4,25 @@ title: Tags
 ---
 
 <h1>Tags</h1>
-<ul>
+<div class="tag-cloud">
   {% assign tags = site.tags %}
+  {% assign max_count = 0 %}
   {% for tag in tags %}
-    <li>
-      <a href="/tags/{{ tag[0] | slugify }}/">{{ tag[0] }} ({{ tag[1].size }})</a>
-    </li>
+    {% if tag[1].size > max_count %}
+      {% assign max_count = tag[1].size %}
+    {% endif %}
   {% endfor %}
-</ul>
+
+  {% for tag in tags %}
+    {% assign count = tag[1].size %}
+    {% assign scale = count | times: 1.0 | divided_by: max_count %}
+    {% assign font_size = scale | times: 1.5 | plus: 0.85 %}
+    <a
+      href="/tags/{{ tag[0] | slugify }}/"
+      class="cloud-tag"
+      style="--size: {{ font_size }}rem;"
+    >
+      {{ tag[0] }} ({{ count }})
+    </a>
+  {% endfor %}
+</div>
