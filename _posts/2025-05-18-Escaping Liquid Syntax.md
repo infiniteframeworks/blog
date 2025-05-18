@@ -12,7 +12,7 @@ Don't be like me. Learn from my mistakes. Escape your [Liquid](https://shopify.g
 
 Liquid is an open-source template language from [Shopify](https://www.shopify.com/) that is used by [Jekyll](https://jekyllrb.com/).
 
-When posting [about how to enable tags in Jekyll on GitHub Pages], I made a funny set of mistakes. First, I forgot to escape my Liquid syntax so that my code samples were rendered by Liquid. As an example, something like this:
+When posting [about how to enable tags in Jekyll on GitHub Pages](/enabling-tags-in-jekyll-on-github-pages/), I made a funny set of mistakes. First, I forgot to escape my Liquid syntax so that my code samples were rendered by Liquid. As an example, something like this:
 
   <pre>
   {% raw %} 
