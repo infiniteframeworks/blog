@@ -19,6 +19,14 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.tags %}
+  <div class="post-tags">
+    {% for tag in page.tags %}
+      <span><a href="/tags/{{ tag | slugify }}/">#{{ tag }}</a></span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
