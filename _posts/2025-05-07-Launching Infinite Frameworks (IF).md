@@ -2,14 +2,15 @@
 title: Launching Infinite Frameworks (IF)
 date: 2025-05-07
 layout: post
-author:
-  - Jim Smits
+author: Jim Smits
 permalink: /launching-if/
 thread: 
 tags:
   - business
   - business-development
 description: Inception of Infinite Frameworks (IF).
+ai-disclaimer: Not Created By AI
+ai-generated: none
 ---
 Today, May 7, 2025, I am launching my new company, Infinite Frameworks (IF). 
 

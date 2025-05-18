@@ -10,7 +10,8 @@ tags:
   - analytics
   - seo
   - search-console
-ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT
+ai-generated: partially
 ---
 **Google Search Console** is a free tool from Google that helps you monitor, maintain, and troubleshoot your site's presence in Google Search results.
 

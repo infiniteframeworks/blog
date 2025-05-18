@@ -9,7 +9,8 @@ description: A `webmanifest` file is a completely optional JSON file that gives 
 tags:
   - website-development
   - ux
-ai-disclaimer: Created by Jim Smits, Researched with ChatGPT, Scripts by ChatGPT.
+ai-disclaimer: Created by Jim Smits, Researched with ChatGPT, Scripts by ChatGPT
+ai-generated: partially
 ---
 
 A `webmanifest` file is a completely optional JSON file that gives browsers information about your site so that it can be: 

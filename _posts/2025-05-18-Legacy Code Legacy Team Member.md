@@ -12,7 +12,8 @@ tags:
   - vison
   - software-development
 description: Legacy isn’t just in code. It’s in people. In habits. In fears. In loyalties.
-ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT
+ai-generated: partially
 ---
 For organizations with a large legacy code base, high maintenance costs, onboarding difficulty, slow delivery cycles, and integration issues are common problems. These challenges often create inertia. Features go unreleased and deadlines are missed as teams struggle with outdated systems. Attracting and retaining talent becomes harder. Developers - both new and experienced - often prefer greenfield projects over legacy applications burdened by technical debt.
 

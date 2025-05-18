@@ -10,7 +10,8 @@ tags:
   - jekyll
   - github-pages
   - how-to
-ai-disclaimer: Created by Jim Smits, Researched with ChatGPT, Scripts by ChatGPT.
+ai-disclaimer: Created by Jim Smits, Researched with ChatGPT, Scripts by ChatGPT
+ai-generated: partially
 ---
 **Editor's note:** the first time I published this article, Liquid, Jekyll's templating engine, rendered the code in the example text. 😂 Be sure to [escape your Liquid](/escaping-liquid-syntax/), all.
 

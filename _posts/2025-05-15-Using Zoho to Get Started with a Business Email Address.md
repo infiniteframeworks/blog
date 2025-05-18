@@ -13,7 +13,8 @@ tags:
   - email-configuration
   - how-to
 description: Zoho mail - getting started and first impressions.
-ai-disclaimer: Created by Jim Smits, Edited with ChatGPT.
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT
+ai-generated: partially
 ---
 
 There's the easy way and the right way and oftentimes that Venn diagram is just two separate circles.  Add in the cheap way and now there are three separate circles.

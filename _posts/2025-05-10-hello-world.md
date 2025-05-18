@@ -3,11 +3,12 @@ title: Hello, World
 date: 2025-05-10
 layout: post
 permalink: /hello-world/
-author:
-  - Jim Smits
+author: Jim Smits
 description: Obligatory Hello, World post.
 tags:
   - software-lore
+ai-disclaimer: Created by Jim Smits, Edited with ChatGPT
+ai-generated: partially
 ---
 If you've written any code before, you've probably seen this phrase:
 

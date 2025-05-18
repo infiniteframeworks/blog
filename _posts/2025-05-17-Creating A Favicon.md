@@ -10,6 +10,8 @@ tags:
   - website-development
   - how-to
 description: Favicons, are the little graphics that appear in your browser tabs. Creating one for your company is easy.
+ai-disclaimer: Not Created By AI
+ai-generated: none
 ---
 Favicons are the little graphics that appear in your browser tabs.
 

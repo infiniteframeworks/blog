@@ -11,6 +11,7 @@ tags:
   - getting-started
   - analytics
 ai-disclaimer: Not Created By AI
+ai-generated: none
 ---
 Sometimes you don't want or need to create a whole new account in GA4 if you are wanting to track a separate but related entity in GA4.  An example of this scenario is if you have a main site "site.com" and a subdomain with related (but separate) information such as "blog.site.com" or "docs.site.com". In cases such as these, the best bet is to add a property under the existing account for your site.
 

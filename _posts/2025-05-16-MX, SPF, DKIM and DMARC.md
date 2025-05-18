@@ -10,7 +10,8 @@ tags:
   - email-configuration
   - dns
 description: When configuring your mail server in DNS, here are some useful terms to know.
-ai-disclaimer: Created by Jim Smits, Researched with ChatGPT.
+ai-disclaimer: Created by Jim Smits, Researched with ChatGPT
+ai-generated: partially
 ---
 When configuring your mail server in DNS, here are some useful terms to know.  
 

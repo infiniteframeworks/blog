@@ -11,6 +11,7 @@ tags:
   - ux
   - chatGPT
 ai-disclaimer: Not Created By AI
+ai-generated: none
 ---
 It is my belief that users want transparency about content that was produced by AI. To that end, I have started being transparent about when and how I use AI in my creation process.
 
