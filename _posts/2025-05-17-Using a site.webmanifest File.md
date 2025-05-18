@@ -57,4 +57,5 @@ Here are the common values and what they do:
 |`standalone`|Launches like an app: no address bar, no tabs—just your site in its own frame|
 |`fullscreen`|Launches in true full-screen mode—no browser UI at all|
 |`minimal-ui`|Like `standalone`, but keeps some minimal browser chrome (back button)|
+
 The `webmanifest` file is a helpful way to get mobile browsers to treat your site like an app. When a user adds your site to their home screen, the manifest gives the browser some instructions to make it feel more like a native app.  While this is completely optional, it is a nice finishing touch for any website.
