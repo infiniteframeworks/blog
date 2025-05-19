@@ -15,7 +15,7 @@ ai-generated: partially
 
 The **Big Ball of Mud** is a term used in software architecture to describe a system with no clear structure. It’s a haphazard, sprawling codebase that's been patched and extended over time without a coherent design. The term was coined in the paper _"[Big Ball of Mud](https://hillside.net/plop/plop97/Proceedings/foote.pdf)"_ by Brian Foote and Joseph Yoder in 1997.
 
-![a smooth ball of mud interlaced with neon line representing high-coupling](/assets/images/posts/big-ball-of-mud.png "AI Generated Graphic - Midjourney)
+![a smooth ball of mud interlaced with neon line representing high-coupling](/assets/images/posts/big-ball-of-mud.png "AI Generated Graphic - Midjourney")
 ### Core Characteristics:
 
 - **Lack of clear architecture:** There are no well-defined layers, modules, or separation of concerns.    
