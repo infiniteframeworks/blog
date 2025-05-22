@@ -19,6 +19,8 @@ ai-generated: partially
 ---
 There is an archaic saying **"Nobody ever got fired for buying IBM."**
 
+![a color dot-matrix view looking up at skyscrapers](/assets/images/posts/buying-ibm.webp "AI Graphic - Midjourney)
+
 Back in the mid 20th century, IBM was the safe bet in enterprise IT. Not the cheapest. Not the most innovative. But reliable, reputable, and most importantly: if things blew up, you wouldn’t get blamed. You chose the giant. The industry leader.
 
 It’s a phrase soaked in risk aversion, corporate politics, and brand trust as a CYA strategy. 
