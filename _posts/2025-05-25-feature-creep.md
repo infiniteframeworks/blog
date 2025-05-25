@@ -17,7 +17,7 @@ ai-generated: partially
 
 Feature creep is when products or projects keep accumulating new features beyond their original scope. It often starts with good intentions—"Wouldn't it be nice if...?" — but ends in bloated software, confused users, and missed deadlines.
 
-![digital camera covered with digital noise](/assets/images/posts/feature-creep.webp "AI Graphic - Midjourney") ""
+![digital camera covered with digital noise](/assets/images/posts/feature-creep.webp "AI Graphic - Midjourney") 
 
 **My favorite real-world example?**  
 Image editing software on digital cameras. You bought the camera to take pictures, not to crop them with a D-pad. Somewhere along the way, someone decided it _needed_ filters, and a slideshow mode. Why? Because it made for a bullet point in marketing literature, was technically possible—and nobody said no.
