@@ -3,7 +3,7 @@ title: Big Ball of Mud
 date: 2025-05-19
 layout: post
 author: Jim Smits
-permalink: 
+permalink: /big-ball-of-mud/
 thread: https://chatgpt.com/c/68282470-438c-8004-857e-f9bbc32f2f85
 description: A Big Ball of Mud is a term used in software architecture to describe a system with no clear structure.
 tags:
