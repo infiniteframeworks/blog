@@ -1,5 +1,5 @@
 ---
-title: "## Beware the Promo Code Trap: Protect Your Checkout Flow"
+title: "Beware the Promo Code Trap: Protect Your Checkout Flow"
 date: 2025-06-03
 layout: post
 author: Jim Smits
