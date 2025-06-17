@@ -16,7 +16,7 @@ ai-generated: partially
 ---
 A **bus factor** in simple terms is the number of people who would need to get hit by a bus in order for the project to be in serious trouble.
 
-![a three quarter fish eye view of a yellow city bus](/assets/images/posts/bus-factor.png "AI Generated Graphic - Midjourney")
+![a three quarter fish eye view of a yellow city bus](/assets/images/posts/bus-factor.webp "AI Generated Graphic - Midjourney")
 
 For example, a bus factor of five means that five people would have to disappear before the project is at risk. A bus factor of one means that if one person knows everything, once they're gone, you're project is in critical condition.
 

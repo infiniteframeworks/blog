@@ -7,4 +7,4 @@ _site/
 vendor/ 
 # Ignore obsidian sync script
 sync_obsidian.sh
-/assets/images/posts/originals/
+/assets/raw_images/

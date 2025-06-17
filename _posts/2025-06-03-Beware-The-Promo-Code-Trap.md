@@ -16,7 +16,7 @@ ai-generated: partially
 ---
 So, you've invested in an e-commerce add-on for a platform like Wix or Squarespace. Online orders are coming in, and you're reaching markets in other states—a real win!
 
-![graphic showing a cartoon beartrap surrounding a 'promo code' ticket and a red alert triangle in front of a red checkout button with the text 'beware the promo code trap protect your checkout flow'](/assets/images/posts/beware-the-promo-code-trap.png "AI Generated - ChatGPT")
+![graphic showing a cartoon beartrap surrounding a 'promo code' ticket and a red alert triangle in front of a red checkout button with the text 'beware the promo code trap protect your checkout flow'](/assets/images/posts/beware-the-promo-code-trap.webp "AI Generated - ChatGPT")
 
 But there’s one default setting that could quietly cost you sales and send potential customers straight to your competitors: the promo code box.
 The Customer Experience

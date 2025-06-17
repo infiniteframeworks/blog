@@ -15,7 +15,7 @@ ai-generated: partially
 ---
 If your checkout page feels like an antique cash register, the problem might be the code — outdated markup and sluggish scripts that frustrate today's mobile-first shoppers.
 
-![graphic showing a computer monitor behind a red circle with a dollar sign in it and an arrow pointing down with the text 'Why your 2009 WordPress theme costs you sales today'](/assets/images/posts/why-your-2009-wordpress-theme-costs-you-sales-today.png "AI Generated Graphic - ChatGPT")
+![graphic showing a computer monitor behind a red circle with a dollar sign in it and an arrow pointing down with the text 'Why your 2009 WordPress theme costs you sales today'](/assets/images/posts/why-your-2009-wordpress-theme-costs-you-sales-today.webp "AI Generated Graphic - ChatGPT")
 # The Hidden Cost of Outdated Websites
 - **Slow load times** increase bounce rates
 - **Confusing UX** leads to lost sales

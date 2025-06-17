@@ -22,7 +22,7 @@ ai-generated: partially
 
 It's a pattern I see again and again.  A healthy local result in Google Maps, but zero results in Apple Maps, or worse, a link to your competition.
 
-![graphic showing the Apple Maps icon with the text "Don't forget Apple Maps"](/assets/images/posts/don-t-forget-apple-maps.png "AI Graphic - ChatGPT")
+![graphic showing the Apple Maps icon with the text "Don't forget Apple Maps"](/assets/images/posts/don-t-forget-apple-maps.webp "AI Graphic - ChatGPT")
 
 While it is [difficult to measure](https://www.justinobeirne.com/how-many-people-use-google-maps-compared-to-apple-maps?utm_source=chatgpt.com), the general consensus is that 33% percent of iPhone users use Apple Maps regularly. So what does listing on Apple Maps mean for a small business in a city of 75,000 people? Let's run some hypotheticals. 
 

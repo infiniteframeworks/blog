@@ -28,4 +28,4 @@ So here it is: the inaugural post of _and beyond_.
 
 Hello, World!
 
-![A modern looking terminal in dark mode with 'echo, "Hello, World!"' displayed on the screen](/assets/images/posts/2c632be6-05c7-46d8-86fe-e01c4d344de6.png "AI Generated Graphic - ChatGPT")
+![A modern looking terminal in dark mode with 'echo, "Hello, World!"' displayed on the screen](/assets/images/posts/2c632be6-05c7-46d8-86fe-e01c4d344de6.webp "AI Generated Graphic - ChatGPT")
