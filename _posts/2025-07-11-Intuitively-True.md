@@ -8,7 +8,7 @@ thread: https://chatgpt.com/c/68709056-9934-8004-ae79-636638012b1f
 description: 
 tags: 
 ai-disclaimer: Written by Jim Smits, Brainstormed with ChatGPT
-ai-generated:
+ai-generated: none
 ---
 Intuition is a powerful friend, but he can also get you in trouble.
 
@@ -20,6 +20,6 @@ And, as always, context matters. Studies[^1][^2] have shown that intuition can b
 
 So is the answer to trust your gut or not?  When the stakes are low, go for it. But if big business or life decisions are in the sway, do your due diligence. 
 
-[^1]: https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making
+[^1]: [https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making](https://www.researchgate.net/publication/235418838_A_Recognition_Primed_Decision_RPD_Model_of_Rapid_Decision_Making)
 
-[^2]: https://home.cs.colorado.edu/~martin/Csci6402/Papers/kahneman-tversky.pdf
+[^2]: [https://home.cs.colorado.edu/~martin/Csci6402/Papers/kahneman-tversky.pdf](https://home.cs.colorado.edu/~martin/Csci6402/Papers/kahneman-tversky.pdf)
