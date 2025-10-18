@@ -28,6 +28,6 @@ Then I told it:
 
 Now when I am chatting I can ask it to obsidify a given topic. 
 
-Caveat emptor. I have had to coax it along a few times to get the desired output, but overall I am happy and impressed with how well it performs. 
+Caveat emptor. I have had to coax it along a few times to get the desired output, but overall I am happy and impressed with how well it per
 
 
