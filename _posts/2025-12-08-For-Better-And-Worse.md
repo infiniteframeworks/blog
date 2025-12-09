@@ -9,6 +9,7 @@ ai-generated: none
 ai-disclaimer: Written by Me
 title: For Better and Worse
 description: Did AI make me a better programmer?  A worse one?  A more dangerous one?  Yes, yes and yes.
+permalink: /for-better-and-worse/
 ---
 
 
