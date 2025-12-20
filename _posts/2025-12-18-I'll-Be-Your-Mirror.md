@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=KGZWb1SIiR4
 
 AI is a mirror.
 
-![](meta-narc.png)
+
+<img src="/assets/images/posts/meta-narc.png" alt="Dali's Metamorphosis of Narcissus." />
 
 Oh, do tell me I'm pretty, I've always wanted to be pretty.  
