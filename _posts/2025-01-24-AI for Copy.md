@@ -14,7 +14,7 @@ tags:
 ai-disclaimer: Created by Jim Smits, Evaluated by AI.
 ai-generated: none
 ---
-<img src="assets/images/posts/Senecio2.webp" alt="Scenecio, Paul Clee" />
+<img src="/assets/images/posts/Senecio2.webp" alt="Scenecio, Paul Clee" />
   <figcaption><em>Senecio</em>, Paul Klee</figcaption>
 
 Don't do it.  Just don't do it.  I've done it - it's the way I learn, but it is just. not. good. copy. There is a reason why it has been deemed AI slop.
