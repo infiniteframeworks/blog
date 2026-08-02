@@ -8,3 +8,6 @@ vendor/
 # Ignore obsidian sync script
 sync_obsidian.sh
 /assets/raw_images/
+_drafts/
+.obsidian/
+_templates/
