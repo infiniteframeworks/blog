@@ -1,12 +1,10 @@
 <header class="site-header" style="background-color: #f8faf9;" role="banner">
 
   <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a href="https://infiniteframeworks.com"><img src="https://infiniteframeworks.com/assets/images/logo.png" alt="Infinite Frameworks Logo" class="logo" /></a>
     <a class="site-title" style="float:inherit;" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- if page_paths -%}
+    {%- if collections.navPages.size > 0 -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -18,11 +16,8 @@
         </label>
 
         <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
+          {%- for my_page in collections.navPages -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.data.title | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>

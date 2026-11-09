@@ -1,0 +1,14 @@
+---
+# One archive page per tag at /tags/<slug>/, generated from published posts
+# (replaces the tags/*.md files scripts/generate_tags.sh used to create).
+# Tags listed in site.retained_tags keep an (empty) archive page.
+pagination:
+  data: collections.tagArchives
+  size: 1
+  alias: tag_archive
+permalink: "/tags/{{ tag_archive.slug }}/"
+layout: tag
+eleventyComputed:
+  tag: "{{ tag_archive.tag }}"
+eleventyExcludeFromCollections: true
+---

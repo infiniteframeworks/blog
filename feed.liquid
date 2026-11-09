@@ -1,0 +1,63 @@
+---
+# Atom feed at /feed.xml, equivalent to jekyll-feed 0.17's output.
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"{% if site.lang %} xml:lang="{{ site.lang }}"{% endif %}>
+{%- assign generator = eleventy.generator | split: " v" %}
+<generator uri="https://www.11ty.dev/" version="{{ generator[1] }}">Eleventy</generator>
+<link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
+<link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>{{ page.url | absolute_url | xml_escape }}</id>
+{%- assign title = site.title | default: site.name %}
+{%- if title %}
+<title type="html">{{ title | smartify | xml_escape }}</title>
+{%- endif %}
+{%- if site.description %}
+<subtitle>{{ site.description | xml_escape }}</subtitle>
+{%- endif %}
+{%- if site.author %}
+<author><name>{{ site.author.name | default: site.author | xml_escape }}</name>
+{%- if site.author.email %}<email>{{ site.author.email | xml_escape }}</email>{% endif %}
+{%- if site.author.uri %}<uri>{{ site.author.uri | xml_escape }}</uri>{% endif -%}
+</author>
+{%- endif %}
+{%- assign posts_limit = site.feed.posts_limit | default: 10 %}
+{%- for post in collections.posts limit: posts_limit %}
+{%- assign post_title = post.data.title | smartify | strip_html | normalize_whitespace | xml_escape %}
+<entry{% if post.data.lang %} xml:lang="{{ post.data.lang }}"{% endif %}>
+<title type="html">{{ post_title }}</title>
+<link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post_title }}" />
+<published>{{ post.date | date_to_xmlschema }}</published>
+<updated>{{ post.data.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
+<id>{{ post.data.jekyll_id | absolute_url | xml_escape }}</id>
+{%- unless post.data.feed.excerpt_only or site.feed.excerpt_only %}
+<content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}"><![CDATA[{{ post.templateContent | strip }}]]></content>
+{%- endunless %}
+{%- assign post_author = post.data.author | default: site.author %}
+<author><name>{{ post_author.name | default: post_author | default: "" | xml_escape }}</name></author>
+{%- for category in post.data.categories %}
+<category term="{{ category | xml_escape }}" />
+{%- endfor %}
+{%- for tag in post.data.tags %}
+<category term="{{ tag | xml_escape }}" />
+{%- endfor %}
+{%- if post.data.description and post.data.description != "" %}
+{%- assign post_summary = post.data.description %}
+{%- else %}
+{%- assign post_summary = post.data.excerpt %}
+{%- endif %}
+{%- if post_summary and post_summary != "" %}
+<summary type="html"><![CDATA[{{ post_summary | strip_html | normalize_whitespace }}]]></summary>
+{%- endif %}
+{%- assign post_image = post.data.image.path | default: post.data.image %}
+{%- if post_image %}
+{%- unless post_image contains "://" %}{% assign post_image = post_image | absolute_url %}{% endunless %}
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post_image | xml_escape }}" />
+<media:content medium="image" url="{{ post_image | xml_escape }}" xmlns:media="http://search.yahoo.com/mrss/" />
+{%- endif %}
+</entry>
+{%- endfor %}
+</feed>

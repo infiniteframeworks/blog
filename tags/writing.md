@@ -1,5 +1,0 @@
----
-layout: tag
-tag: writing
-permalink: /tags/writing/
----

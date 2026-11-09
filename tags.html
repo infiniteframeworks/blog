@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tags
+permalink: /tags.html
 ---
 
 <div style="margin-bottom: 1rem; ">
@@ -9,7 +10,7 @@ title: Tags
 </div>
 
 <div id="tag-cloud" class="tag-cloud">
-    {% assign tags = site.tags %}
+    {% assign tags = collections.tagCloud %}
   {% assign max_count = 0 %}
   {% for tag in tags %}
     {% if tag[1].size > max_count %}
